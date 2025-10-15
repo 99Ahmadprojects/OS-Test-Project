@@ -65,7 +65,7 @@ This project was a collective effort. Here's a breakdown of the team and each me
 
 ## 🚀 Getting Started
 
-To run this project locally, simply clone the repository and open the `index.html` file in your web browser.
+To run this project locally, simply clone the repository and open the `first_draft.html` file in your web browser.
 
 ```bash
 # Clone the repository
