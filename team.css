@@ -1,0 +1,12 @@
+/* Custom styles to complement Tailwind */
+body {
+    font-family: 'Inter', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+/* Style for the active navigation link */
+.nav-link-active {
+    color: #2563eb; /* blue-600 */
+    font-weight: 600;
+}
