@@ -15,6 +15,7 @@ This project serves as a practical demonstration of teamwork and collaborative d
 ## Mir Ahmad Shah Git Screenshots
 ![Project Screenshot](1.png)
 ![Project Screenshot](2.png)
+![Project Screenshot](8.png)
 
 ## Sharaiz Ahmed Git Screenshots
 ![Project Screenshot](3.jpeg)
