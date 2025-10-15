@@ -17,10 +17,13 @@ This project serves as a practical demonstration of teamwork and collaborative d
 ![Project Screenshot](2.png)
 ![Project Screenshot](8.png)
 
+---
+
 ## Sharaiz Ahmed Git Screenshots
 ![Project Screenshot](3.jpeg)
 ![Project Screenshot](4.jpeg)
 
+---
 
 ## Shahid Zaman Git Screenshots
 ![Project Screenshot](5.jpeg)
