@@ -36,7 +36,7 @@ This project serves as a practical demonstration of teamwork and collaborative d
 
 * **📱 Responsive Design:** The layout is fully responsive and looks great on all devices, from mobile phones to desktop screens.
 * **🖱️ Interactive UI:** Smooth scrolling, a mobile-friendly hamburger menu, and active navigation link highlighting create a dynamic user experience.
-* **💻 Clean & Semantic Code:** The project is built with a well-organized and meaningful HTML structure, which is beneficial for accessibility and SEO.
+* **💻 Clean & Semantic Code:** The project is built with a well-organized and meaningful HTML structure, which is beneficial for accessibility.
 * 🎨 **Modern Styling with Tailwind CSS:** The user interface is styled using the utility-first Tailwind CSS framework for a clean and modern aesthetic.
 
 ---
