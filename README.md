@@ -1,4 +1,4 @@
-# Collaborative Web Project for BSCS 5-1
+# Collaborative Web Project of OS
 
 > A simple, modern, and responsive single-page website created as a collaborative project for the Operating Systems course by students of BSCS 5-1 at Riphah International University.
 
